@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>paiv.keyboardlayout.uklatn</string>
+	<key>CFBundleName</key>
+	<string>UkrainianLatinKeyboards</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_UkrainianLatinQ</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>paiv.keyboardlayout.uklatn.ukrainianlatinq</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk-Latn</string>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+	</dict>
+	<key>KLInfo_UkrainianLatinJi</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>paiv.keyboardlayout.uklatn.ukrainianlatinji</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk-Latn</string>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+	</dict>
+	<key>KLInfo_UkrainianLatinSh</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>paiv.keyboardlayout.uklatn.ukrainianlatinsh</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk-Latn</string>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
