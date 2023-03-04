@@ -1,7 +1,7 @@
 Ukraïnsjka Latynka - keyboard input
 ==
 
-[![standwithukraine](https://user-images.githubusercontent.com/196601/157244482-73d3c54c-3e3f-4fac-8eb0-cc32cd5d746e.svg)](https://ukrainewar.carrd.co/)
+[![standwithukraine](https://user-images.githubusercontent.com/196601/222884471-aeea5524-bd63-4093-8a2c-a6644a17ad67.svg)](https://ukrainewar.carrd.co/)
 
 Keyboard layouts for Ukrainian Latin.
 
