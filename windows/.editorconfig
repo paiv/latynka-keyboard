@@ -1,0 +1,4 @@
+[*.klc]
+charset = utf-16le
+end_of_line = crlf
+indent_style = tab
